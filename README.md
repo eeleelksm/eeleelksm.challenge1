@@ -1,6 +1,6 @@
 # HTML CSS Git Challenge: Code Refactor
 
-In this Challenge, we were asked gto refactor an existing webpage to make it accessible.
+In this Challenge, we were asked to refactor an existing webpage to make it accessible.
 In this challenge, I:
 
 ```
